@@ -1,6 +1,5 @@
 # pywifi-进行WiFi密码的破解(基于字典)
 使用pywifi库进行WiFi密码的破解(基于字典)
 
-此文件的讲解在https://ximenxiaoxue.github.io/
+此文件的讲解在https://aurobreeze.top/
 
-这只是一个临时网址，速度稍慢，见谅
